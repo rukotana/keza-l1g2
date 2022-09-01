@@ -9,7 +9,7 @@ mobile ui
 for learning purpose.
 
 **languages used.**
--html5
--css3
+1. html5
+2. css3
 
 
