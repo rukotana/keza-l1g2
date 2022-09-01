@@ -7,7 +7,7 @@ mobile ui
 
 ### project mission.
 for learning purpose
-###languages used.
+**languages used.**
 -html5
 -css3
 
